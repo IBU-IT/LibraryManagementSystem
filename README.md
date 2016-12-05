@@ -1,0 +1,2 @@
+# LibraryManagementSystem
+This application  will make it easy for library employees to see who borrowed which books, the deadline for return, tax if the deadline is passed. It will also make it easy to look for the book as the search will have options to search by writer name and surname, title of the book... This application will also show which employer lend the book and at which time and to which person.
